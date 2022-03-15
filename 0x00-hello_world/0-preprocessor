@@ -2,4 +2,5 @@
 #includ<stdio.h>
 int main()
 return 0;
-gcc $CFILE.C -O
+printf("")
+gcc $CFILE.C -O $CFILE
